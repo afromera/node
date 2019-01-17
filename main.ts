@@ -3,7 +3,7 @@ import * as yargs from 'yargs'
 
 const argv = yargs.demandOption('num').argv
 
-console.log('n-fatorial')
+console.log('=== n-fatorial ===')
 
 const num = argv.num
 
